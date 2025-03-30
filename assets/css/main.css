@@ -609,7 +609,7 @@ table.alt tfoot {
 .highlights .content .icon {
   font-size: 5rem; }
 
-/* Testimonials */
+/* Testimonials specific */
 .testimonials .content {
   border-radius: 4px;
   padding: 3rem; }
@@ -733,7 +733,7 @@ table.alt tfoot {
   .testimonials > :nth-child(1n) {
     width: calc(100% + 1rem); }
 }
-
+/* Fixed till here */
 /* Actions */
 ul.actions {
   display: -moz-flex;
